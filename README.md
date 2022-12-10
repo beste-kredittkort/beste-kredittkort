@@ -2,7 +2,7 @@
 
 We're working on making it easier to choose the best possible credit card in Norway for the norwegian consumer.
 
-🇳🇴 [Beste-kredittkort.no](https://beste-kredittkort.no/) 
+🇳🇴 *[Beste-kredittkort.no](https://beste-kredittkort.no/)*
 
 🇸🇪 _coming soon_
 
